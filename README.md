@@ -29,7 +29,7 @@
   ---
   
   <div class="section">
-    :man_technologist: About Me :
+    <h2>:man_technologist: About Me : </h2>
     I am a  Jr Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
     <ul>
       <li> :telescope: I’m currently studing with Boolean </li>
@@ -48,7 +48,6 @@
   
   <div class="section">
     :hammer_and_wrench: Languages and Tools :
-    
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40" />&nbsp;
