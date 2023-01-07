@@ -35,11 +35,11 @@
       <li> :telescope: I’m currently studing with Boolean </li>
       <li> :seedling: I like to get new skills, right now I am studying Python. </li>
       <li> :zap: In my free time, I read tech articles. </li>
-      <li> 
+      <!--<li> 
         :mailbox:How to reach me:
         <a href="https://www.linkedin.com/in/giovanni-francesco-giovene-b0ba4a172/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-        </a>
+        </a> -->
       </li>
     </ul>  
   </div>
